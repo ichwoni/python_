@@ -1,4 +1,4 @@
-#selection sort
+#Selection Sort
 #가장 작은 데이터를 앞으로 보내는 과정 반복
 
 array=[7,5,9,0,3,1,6,2,4,8]
